@@ -11,8 +11,21 @@ For the past five years, I led Editing Department in a localization studio in St
 - JS (fundamentals)
 - Git/GitHub
 
+#### Code Examples
+I made [this](https://sailoralyona.github.io/lalahtml/) html page for my husband, he posted it on twitter and it did numbers. Also, Codewars training task:
+```
+function multiply(a, b){
+return  a * b
+}
+```
+#### Education
+- The Russian Presidential Academy of National Economy and Public Administration: Specialist's degree in International Relations
+- Tianjin University, China: Chinese language course
+- HTML Academy: HTML and CSS basics (online course), JavaScript (online course)
+- RS School: JavaScript/Frontend Pre-School (currently studying)
+
 #### Contact me
-- +381-063-124-23-02 
-- milkyyfan@gmail.com 
-- [LinkedIn](https://www.linkedin.com/in/alyona-moiseyeva-851242120/)
-- [GitHub](https://github.com/sailoralyona/)
+:telephone_receiver: +381-063-124-23-02 
+:email: milkyyfan@gmail.com 
+:briefcase: [LinkedIn](https://www.linkedin.com/in/alyona-moiseyeva-851242120/)
+:link: [GitHub](https://github.com/sailoralyona/)
