@@ -1,7 +1,8 @@
 ## Aljona Moisejeva 
 >**Junior Frontend Engineer**
+
 >Belgrade, Serbia
->
+
 #### Work experience
 For the past five years, I led Editing Department in a localization studio in St Petersburg, Russia. I was really passionate about this job which required creativity,  good command of many languages, information seeking skill, and social skills because I also trained new employees and managed the department's workflow. Due to recent events, this profession became less-needed, and I started to look for a new interesting and sustainable field where my skills would be useful. Currently I'm learning to become a Frontend Developer. I'm a fast learner (and I know the importance of self-education), I'm very good with languages, I have creative and logical mind, I'm equally good at both staying on script and finding non-standard solutions.
 
@@ -25,7 +26,7 @@ return  a * b
 - RS School: JavaScript/Frontend Pre-School (currently studying)
 
 #### Contact me
-:telephone_receiver: +381-063-124-23-02 
-:email: milkyyfan@gmail.com 
-:briefcase: [LinkedIn](https://www.linkedin.com/in/alyona-moiseyeva-851242120/)
-:link: [GitHub](https://github.com/sailoralyona/)
+- +381-063-124-23-02 
+- milkyyfan@gmail.com 
+- [LinkedIn](https://www.linkedin.com/in/alyona-moiseyeva-851242120/)
+- [GitHub](https://github.com/sailoralyona/)
