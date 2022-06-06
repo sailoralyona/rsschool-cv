@@ -3,6 +3,8 @@
 
 >Belgrade, Serbia
 
+![mypic](https://sailoralyona.github.io/rsschool-cv/myphoto.jpg)
+
 #### Work experience
 For the past five years, I led Editing Department in a localization studio in St Petersburg, Russia. I was really passionate about this job which required creativity,  good command of many languages, information seeking skill, and social skills because I also trained new employees and managed the department's workflow. Due to recent events, this profession became less-needed, and I started to look for a new interesting and sustainable field where my skills would be useful. Currently I'm learning to become a Frontend Developer. I'm a fast learner (and I know the importance of self-education), I'm very good with languages, I have creative and logical mind, I'm equally good at both staying on script and finding non-standard solutions.
 
