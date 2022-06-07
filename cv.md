@@ -1,6 +1,5 @@
 ## Aljona Moisejeva 
 >**Junior Frontend Engineer**
-
 >Belgrade, Serbia
 
 ![mypic](https://sailoralyona.github.io/rsschool-cv/myphoto.jpg)
